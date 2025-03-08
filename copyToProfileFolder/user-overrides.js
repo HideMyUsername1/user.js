@@ -57,3 +57,18 @@ user_pref("layers. acceleration. disabled", true);
 // Dark mode
 user_pref("ui.systemUsesDarkTheme", 1);
 user_pref("browser.theme.content-theme", 2);
+
+// New 
+user_pref("browser.contentanalysis.default_allow", false); // [FF124+] [DEFAULT: false]
+user_pref("browser.contentanalysis.default_result", 0); 
+user_pref("network.dns.disablePrefetchFromHTTPS", true);
+user_pref("browser.urlbar.yelp.featureGate", false); // [FF124+] [DEFAULT: false]
+user_pref("privacy.spoof_english", 1); // [FF71+]
+// user_pref("browser.link.force_default_user_context_id_for_external_opens", true);
+// New testing 
+user_pref("browser.urlbar.fakespot.featureGate", false); // [FF130+] [DEFAULT: false] enbaled by default
+user_pref("widget.non-native-theme.use-theme-accent", false); // [DEFAULT: false WINDOWS]  enbaled by default
+user_pref("browser.contentanalysis.enabled", false); // enbaled by default
+
+
+
