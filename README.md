@@ -3,6 +3,11 @@ Project based on https://github.com/arkenfox/user.js/wiki
 
 https://github.com/arkenfox/user.js/blob/master/user.js
 
+# How fix old versions error?
+```bash
+firefox -allow-downgrade
+```
+
 # How to use this?
 
 1. Just copy the contant of the copyToProfileFolder to the firefox profile and use the scripts.
