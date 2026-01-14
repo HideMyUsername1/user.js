@@ -34,11 +34,13 @@ firefox -allow-downgrade
 # Plugins I'm Using
 
 - [uBlock Origin](https://addons.mozilla.org/firefox/downloads/latest/ublock-origin/latest.xpi)
+- [Dark Reader](https://addons.mozilla.org/de/firefox/addon/darkreader/lattest.xpi)
+- [containerise](https://addons.mozilla.org/de/firefox/addon/containerise/lattest.xpi)
 - [Skip Redirect](https://addons.mozilla.org/firefox/downloads/latest/skip-redirect/latest.xpi)
-- [Chameleon](https://addons.mozilla.org/firefox/downloads/latest/chameleon-ext/latest.xpi)
-- [Midnight Lizard](https://addons.mozilla.org/firefox/downloads/latest/midnight-lizard-quantum/latest.xpi)
-- [LanguageTool](https://addons.mozilla.org/firefox/downloads/latest/languagetool/latest.xpi)
 
+# Optional Plugins
+- [LanguageTool](https://addons.mozilla.org/firefox/downloads/latest/languagetool/latest.xpi)
+- [Midnight Lizard](https://addons.mozilla.org/firefox/downloads/latest/midnight-lizard-quantum/latest.xpi)
 
 ## Configuring Plugins
 
