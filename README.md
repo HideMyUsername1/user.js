@@ -9,10 +9,6 @@ firefox -allow-downgrade
 ```
 # How to make the browser much faster?
 browser.cache.memory.enable = true
-Increase the value
-browser.cache.disk.capacity
-browser.cache.memory.capacity 
-
 
 # How to use this?
 
