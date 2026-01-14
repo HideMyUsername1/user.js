@@ -34,8 +34,8 @@ firefox -allow-downgrade
 # Plugins I'm Using
 
 - [uBlock Origin](https://addons.mozilla.org/firefox/downloads/latest/ublock-origin/latest.xpi)
-- [Dark Reader](https://addons.mozilla.org/de/firefox/addon/darkreader/lattest.xpi)
-- [containerise](https://addons.mozilla.org/de/firefox/addon/containerise/lattest.xpi)
+- [Dark Reader](https://addons.mozilla.org/firefox/downloads/latest/darkreader/latest.xpi)
+- [containerise](https://addons.mozilla.org/firefox/downloads/latest/containerise/latest.xpi)
 - [Skip Redirect](https://addons.mozilla.org/firefox/downloads/latest/skip-redirect/latest.xpi)
 
 # Optional Plugins
