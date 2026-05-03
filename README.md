@@ -25,7 +25,9 @@ browser.cache.memory.enable = true
 # Windows location:
 - `%APPDATA%\Mozilla\Firefox\Profiles\`
 # Linux location
-- `~/. mozilla/firefox/`
+- `/.config/mozilla/firefox`
+  or
+- `~/.mozilla/firefox/`
 # Copy this files from the old profile.
   - `places.sqlite` Bookmarks
   - `favicons.sqlite` The favicons for the bookmarks 
